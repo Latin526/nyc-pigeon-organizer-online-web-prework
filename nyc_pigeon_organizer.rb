@@ -1,2 +1,2 @@
-def nyc_pigeon_orgnize
+def nyc_pigeon_orgnizer
 end
